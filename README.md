@@ -20,7 +20,8 @@ $ git clone https://github.com/anilGupta/HandzapReactJSAssignment.git
 > ### Step 2 Install the dependencies and devDependencies and start the webpack dev server.
 
 ```sh
-$ git clone https://github.com/anilGupta/HandzapReactJSAssignment.git
+$ npm install
+$ npm start
 ```
 
 #### open browser with url http://localhost:9000
